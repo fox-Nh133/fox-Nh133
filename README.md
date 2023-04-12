@@ -1,4 +1,5 @@
 ### Hi there 👋
+![HTML](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat)
 
 - 🧪 I’m currently studying ...　applied chemistry @ [Kyoto Institure of Technology](https://www.kit.ac.jp/en/)
 - 🔭 I’m currently working on ... 
