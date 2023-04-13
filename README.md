@@ -9,7 +9,7 @@
   - [dedede](https://www.sonycsl.co.jp/kyoto/projects/dedede/) @[SonyCSL Kyoto](https://www.sonycsl.co.jp/kyoto/)
   - [KIT Portal Website](https://portal.kyotoinst.tech)
   - [KIT Chamber Orchestra Official Website](https://www.shitsukan.info)
-- 🔎 I’m looking to collaborate on ... developing front-end about chemistry simulation
+- 🔎 I’m looking to collaborate on ... developing front-end of chemistry simulation
 
 <!--
 **fox-Nh133/fox-Nh133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
