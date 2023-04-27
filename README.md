@@ -6,7 +6,7 @@
 
 - 🧪 I’m currently studying ...　applied chemistry @ [Kyoto Institure of Technology](https://www.kit.ac.jp/en/)
 - 🔭 I’m currently working on ... 
-  - [dedede](https://www.sonycsl.co.jp/kyoto/projects/dedede/) @[SonyCSL Kyoto](https://www.sonycsl.co.jp/kyoto/)
+  - [dedede](https://www.sonycsl.co.jp/kyoto/projects/dedede/) @SonyCSL Kyoto
   - [KIT Portal Website](https://portal.kyotoinst.tech)
   - [KIT Chamber Orchestra Official Website](https://www.shitsukan.info)
 - 🔎 I’m looking to collaborate on ... developing front-end of chemistry simulation
