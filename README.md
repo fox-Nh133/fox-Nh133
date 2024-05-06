@@ -1,8 +1,5 @@
 ### Hi there 👋
-![HTML](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
-![JS](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat)
-![Rails](https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat)
+<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white"><img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
 
 - 🧪 I’m currently studying ...　applied chemistry @ [Kyoto Institure of Technology](https://www.kit.ac.jp/en/)
 - 🔭 I’m currently working on ... 
